@@ -1,3 +1,4 @@
+# Alpine used here for a slimmer build
 FROM nginx:1.23.1-alpine
 
 # Remove default config files in NGINX image
